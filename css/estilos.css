@@ -59,7 +59,7 @@ section {
 }
 .boton-enviar {
  background-color: var(--rojo-inem);
- color: white;
+ color: 432918;
  padding: 15px;
  border: none;
  border-radius: 8px;
@@ -68,7 +68,7 @@ section {
  transition: background 0.3s ease;
 }
 .boton-enviar:hover {
- background-color: var(--azul-inem);
+ background-color: var(--white-inem);
 }
 
 
