@@ -98,7 +98,7 @@ text - transform: uppercase;
 .enlaces {
 list - style: none;
 display: flex;
-gap: 45px; /* Espacio entre botones */
+gap: 80px; /* Espacio entre botones */
 margin: 0;
 }
 .enlaces a {
