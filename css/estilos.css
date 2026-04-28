@@ -82,12 +82,12 @@ box-shadow: 0 4px 10px rgba(0,0,0,0.2); /* Sombra para que resalte sobre
 el fondo */
 width: 100%;
 }
-.contenedor - menu {
-max- width: 1000px;
+.contenedor-menu {
+max-width: 1000px;
 margin: 0 auto;
 display: flex;
-justify - content: space - between;
-align - items: center;
+justify-content: space - between;
+align-items: center;
 padding: 0 20px;
 }
 .logo {
