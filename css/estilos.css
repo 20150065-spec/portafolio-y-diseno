@@ -10,7 +10,7 @@ body {
 
 header {
     background-color: #432918; /* Un color elegante */
-    color: FFFFFF;
+    color: ffffff;
     padding: 20px;
     text-align: center;
 }
@@ -73,7 +73,7 @@ section {
 
 /* Menú Superior */
 .menu - superior {
-background - color: #004a99; /* Azul - Así es visible */
+background - color: #8d4925; /* Azul - Así es visible */
 padding: 15px 0;
 position: sticky;
 top: 0;
@@ -91,7 +91,7 @@ align - items: center;
 padding: 0 20px;
 }
 .logo {
-color: #000000; /* negro */
+color: #ffffff; /* blanco */
 font - weight: bold;
 font - size: 1.5rem;
 text - transform: uppercase;
@@ -103,7 +103,7 @@ gap: 30px; /* Espacio entre botones */
 margin: 0;
 }
 .enlaces a {
-color: #000000; /* Texto Blanco siempre visible */
+color: #ffffff; /* Texto Blanco siempre visible */
 text - decoration: none;
 font - weight: bold;
 transition: 0.3s;
